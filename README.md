@@ -27,7 +27,11 @@
   </a> - An NLP project utilizing the PEGASUS model for summarizing text efficiently.<br><br>
   <a href="https://github.com/kshitiznigam/Langchain" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Langchain" height="30" width="40" /> <strong>Langchain</strong>
-  </a> - A project focusing on building and utilizing Langchain for various machine learning applications.
+  </a> - A project focusing on building and utilizing Langchain for various machine learning applications.<br><br>
+  <a href="https://github.com/kshitiznigam/Gen-AI-AWS-Cloud" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Gen-AI-AWS-Cloud" height="30" width="40" /> <strong>Gen-AI-AWS-Cloud</strong>
+  </a> - A project leveraging AWS cloud services to build and deploy generative AI models.
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
