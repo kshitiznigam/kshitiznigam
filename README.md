@@ -30,7 +30,7 @@
   </a> - A project focusing on building and utilizing Langchain for various machine learning applications.<br><br>
   <a href="https://github.com/kshitiznigam/Gen-AI-AWS-Cloud" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Gen-AI-AWS-Cloud" height="30" width="40" /> <strong>Gen-AI-AWS-Cloud</strong>
-  </a> - A project leveraging AWS cloud services to build and deploy generative AI models.
+  </a> - A project leveraging AWS cloud services: Amazon Bedrock, Lambda to create Gen AI Application (blog generation) project using the Llama 2 model.
 </p>
 </p>
 
