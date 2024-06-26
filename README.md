@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Nigam</h1>
-<h3 align="center">A passionate aspiring ML Engineer skilled in end-to-end model development</h3>
+<h3 align="center">A passionate ML Engineer skilled in end-to-end model development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*euQhvApo72obOvIH.gif">
 
 - 🔭 I’m currently working on **Langchain, Gen AI & Machine Learning**
