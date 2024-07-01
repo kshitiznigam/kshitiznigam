@@ -30,7 +30,10 @@
   </a> - A project focusing on building and utilizing Langchain for various machine learning applications.<br><br>
   <a href="https://github.com/kshitiznigam/Gen-AI-AWS-Cloud" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Gen-AI-AWS-Cloud" height="30" width="40" /> <strong>Gen-AI-AWS-Cloud</strong>
-  </a> - A project leveraging AWS cloud services: Amazon Bedrock, Lambda to create Gen AI Application (blog generation) project using the Llama 2 model.
+  </a> -A project leveraging AWS cloud services: Amazon Bedrock, Lambda to create Gen AI Application (blog generation) project using the Llama 2 model.<br><br>
+  <a href="https://github.com/kshitiznigam/Fine_tune_Llama_2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Fine_tune_Llama_2" height="30" width="40" /> <strong>Fine_tune_Llama_2</strong>
+  </a> - A project leveraging on Finetuning Llama 2 model with Qlora Lora using Custom Dataset.
 </p>
 </p>
 
