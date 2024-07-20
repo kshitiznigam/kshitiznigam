@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML Engineer skilled in end-to-end model development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*euQhvApo72obOvIH.gif">
 
-- 🔭 I’m currently working on **Langchain, Gen AI & Machine Learning**
+- 🔭 I’m currently working on **Langchain, Finetuning Gemma & Llama model,Gen AI & Machine Learning**
 
 - 🌱 I’m currently learning **Langchain & Generative AI**
 
@@ -19,6 +19,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
+    <a href="https://github.com/kshitiznigam/Lora-Gemma-Finetuning/tree/main" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Student Performance Indicator" height="30" width="40" /> <strong>Lora-Gemma-Finetuning</strong>
+  </a> - Used KerasNLP to perform LoRA fine-tuning on a Gemma 2B model using the Databricks Dolly 15k dataset.<br><br>
   <a href="https://github.com/kshitiznigam/Student-Performance-Indicator" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Student Performance Indicator" height="30" width="40" /> <strong>Student Performance Indicator</strong>
   </a> - A project aimed at predicting student performance using machine learning techniques.<br><br>
